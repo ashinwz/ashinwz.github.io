@@ -1,3 +1,9 @@
+![img](.\assets\p.png)
+
+------
+
+
+
 #### <center>Those times you get up early you work hard</center>
 
 #### <center>Those times you stay up late you work hard</center>
@@ -22,6 +28,6 @@
 
 #### <center> ...</center>
 
-#### ---- Kobe Bryant
+#### <center>---- Kobe Bryant</center>
 
 
