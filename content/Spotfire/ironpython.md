@@ -1,8 +1,9 @@
-##Spotfire IronPython Usage
+# Spotfire IronPython Usage
 
 <mark>Usual Usage of IronPython</mark>
 
-###Visualization
+## Visualization
+
 ```python
 from Spotfire.Dxp.Data import *
 
