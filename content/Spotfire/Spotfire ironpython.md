@@ -7,7 +7,7 @@
 from Spotfire.Dxp.Data import *
 
 #get the data table
-one_table = Document.Data.Tables["taget table"]
+one_table = Document.Data.Tables["target table"]
 #place generic data cursor on a specific column
 cursor = DataValueCursor.CreateFormatted(one_table.Columns["colID"])
 # Retrieve the marking selection
