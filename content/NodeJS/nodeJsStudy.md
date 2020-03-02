@@ -1,26 +1,5 @@
 # Nodejs 学习笔记
 
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [Nodejs 学习笔记](#nodejs-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
-  - [阻塞与非阻塞](#%E9%98%BB%E5%A1%9E%E4%B8%8E%E9%9D%9E%E9%98%BB%E5%A1%9E)
-  - [处理事件](#%E5%A4%84%E7%90%86%E4%BA%8B%E4%BB%B6)
-  - [流处理](#%E6%B5%81%E5%A4%84%E7%90%86)
-  - [模块引用](#%E6%A8%A1%E5%9D%97%E5%BC%95%E7%94%A8)
-  - [继承](#%E7%BB%A7%E6%89%BF)
-  - [启动一个 html 服务](#%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA-html-%E6%9C%8D%E5%8A%A1)
-  - [Express](#express)
-    - [GET](#get)
-    - [POST](#post)
-  - [多进程](#%E5%A4%9A%E8%BF%9B%E7%A8%8B)
-
-<!-- /code_chunk_output -->
-
-
-
 ## 阻塞与非阻塞
 
 ```javascript
@@ -149,7 +128,7 @@ http
 console.log("Server running at http://127.0.0.1:9002");
 ```
 
-## Express 
+## Express
 
 ### GET
 
