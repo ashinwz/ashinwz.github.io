@@ -11,5 +11,5 @@
 
 - Spotfire IronPython
     - [IronPython](./content/Spotfire/ironpython.md)
-    - [添加自定义列](./CalculateColumn.md)
+    - [添加自定义列](./content/Spotfire/CalculateColumn.md)
    
