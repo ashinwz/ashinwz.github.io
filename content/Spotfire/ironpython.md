@@ -1,6 +1,7 @@
 # Spotfire IronPython Usage
 
-<mark>Usual Usage of IronPython</mark>
+> [!NOTE]
+> Usual Usage of IronPython
 
 ## Visualization
 

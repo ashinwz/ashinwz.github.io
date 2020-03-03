@@ -13,7 +13,9 @@
 ![3](./useFunction.png)
 
 ## 效果
-<mark>如图所示, P-value 为添加的列</mark>
+> [!NOTE]
+> 如图所示, P-value 为添加的列
+
 ![3](./viewTable.png)
     
 - [ ] <font color=red>ps: 一直想添加一个函数：针对选中列，为每一行自动添加其上一个节点的值</font>   

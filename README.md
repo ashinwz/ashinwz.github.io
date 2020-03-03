@@ -2,8 +2,6 @@
 
 ------
 
-
-
 #### <center>Those times you get up early you work hard</center>
 
 #### <center>Those times you stay up late you work hard</center>
