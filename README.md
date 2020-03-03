@@ -28,6 +28,5 @@
 
 #### <center> ...</center>
 
-#### <center>---- Kobe Bryant</center>
 
 
