@@ -17,6 +17,7 @@
       href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
     />
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    
   </head>
   <body>
     <div id="app"></div>
@@ -44,19 +45,7 @@
           // Headline depth, 1 - 6
           depth: 6
         }, //增加搜索框
-        plugins: [
-          EditOnGithubPlugin.create(
-            "https://github.com/ashinwz/ashinwz.github.io",
-            null,
-            function(file) {
-              if (file.indexOf("en") === -1) {
-                return "编辑";
-              } else {
-                return "edit on git";
-              }
-            }
-          )
-        ],
+
         tabs: {
           persist: true, // default
           sync: true, // default
@@ -103,7 +92,7 @@
     <script src="https://unpkg.com/docsify-copy-code@2"></script>
     <!-- docsify-tabs (latest v1.x.x) -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-    <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+    
     <style>
       :root {
         --docsifytabs-border-color: #ededed;
