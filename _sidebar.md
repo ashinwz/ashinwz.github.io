@@ -1,15 +1,33 @@
-- [**Introduction**](./README.md)
+<center>Coding For Analysis Life</center>
+
+-----
+
+- Intro
+  - [**README**](./README.md)
 
 - Markdown
     - [Markdown](./content/MD/template.md)
 
-- Signal Spotfire Apps
-    - [Apps SDK](./content/Apps/AppsAPI.md)
-
 - Nodejs
     - [Nodejs Study](./content/NodeJS/nodeJsStudy.md)
 
-- Spotfire IronPython
-    - [IronPython](./content/Spotfire/ironpython.md)
+- Vue
+    - [Vue Study]()
+
+- Spotfire Analysis
+    - [IronPython Case](./content/Spotfire/ironpython.md)
     - [添加自定义列](./content/Spotfire/CalculateColumn.md)
+
+- Signal Spotfire Apps
+    - [Apps SDK](./content/Apps/AppsAPI.md)
+
+    - [Apps UseCase]()
    
+- Spotfire Streaming
+    - [Usage]()
+    - [StreamBase]()
+
+- TIBCO Data Vitualization
+    - [Usage]()
+
+
